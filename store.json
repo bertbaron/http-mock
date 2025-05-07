@@ -1,0 +1,16 @@
+{
+  "echo": {
+    "develop": {
+        "wachtwoord": "Ontwikkel"
+    },
+    "production-a": {
+        "wachtwoord": "Amsterdam"
+    },
+    "production-b": {
+        "wachtwoord": "Barneveld"
+    },
+    "production-c": {
+        "wachtwoord": "Culemborg"
+    }
+  }
+}
